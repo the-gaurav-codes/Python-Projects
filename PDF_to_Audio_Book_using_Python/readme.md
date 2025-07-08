@@ -14,15 +14,15 @@ You can choose to either **listen live** to the content or **save it as an `.mp3
     ```bash
     git clone https://github.com/your-username/pdf-to-audio-book.git
     cd pdf-to-audio-book
-###2. Install Required Libraries
+### 2. Install Required Libraries
           
     pip install pyttsx3 PyPDF2 gTTS
 
-###3. Run the Script
+### 3. Run the Script
      
     python main.py
 
-4. Choose an Option
+### 4. Choose an Option
 Press 1 to listen to the PDF content
 Press 2 to save the content as an audiobook.mp3
 
